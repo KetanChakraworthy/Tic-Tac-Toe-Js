@@ -1,0 +1,29 @@
+body{
+    font-family: sans-serif;
+}
+#container{
+    height:42vw;
+    width: 42vw;
+    margin: auto;
+
+}
+
+td{
+    height: 13.5vw;
+    width: 13.5vw;
+    margin: auto;
+    position: relative;
+    border: 2px solid black;
+}
+#head{
+    text-align: center;
+}
+.x{
+    background: url(image/x.png) center no-repeat;
+    background-size: contain;
+
+}
+.o{
+    background:url(image/o.png) center no-repeat;
+    background-size: contain;
+}
